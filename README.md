@@ -14,6 +14,6 @@
     *Ex: um dos familiares ganha na loteria aumentando muito sua renda em relação aos demais.*
     
     
-    Este vídeo-tutorial está disponível no Youtube: 
+    Este vídeo-tutorial está disponível no Youtube: https://youtu.be/CLN-y_4ZySw
     
     <img scr="img.png">
