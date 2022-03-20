@@ -16,4 +16,4 @@
     
     Este vídeo-tutorial está disponível no Youtube: https://youtu.be/CLN-y_4ZySw
     
-    <img scr="img.png">
+    <img src="img.png">
